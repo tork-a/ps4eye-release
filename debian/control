@@ -1,0 +1,12 @@
+Source: ros-lunar-ps4eye
+Section: misc
+Priority: extra
+Maintainer: Ron Tajima <ryosuke.tajima@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin
+Homepage: http://wiki.ros.org/ps4eye
+Standards-Version: 3.9.2
+
+Package: ros-lunar-ps4eye
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-gscam, ros-lunar-image-proc, ros-lunar-stereo-image-proc, ros-lunar-tf
+Description: The ps4eye package
