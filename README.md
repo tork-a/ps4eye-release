@@ -1,3 +1,26 @@
+## ps4eye (kinetic) - 0.0.4-0
+
+The packages in the `ps4eye` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release ps4eye --track kinetic --ros-distro kinetic` on `Thu, 04 May 2017 03:46:10 -0000`
+
+The `ps4eye` package was released.
+
+Version of package(s) in repository `ps4eye`:
+
+- upstream repository: https://github.com/longjie/ps4eye.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## ps4eye (jade) - 0.0.4-0
 
 The packages in the `ps4eye` repository were released into the `jade` distro by running `/usr/bin/bloom-release ps4eye --track jade --ros-distro jade` on `Thu, 04 May 2017 03:19:39 -0000`
