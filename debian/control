@@ -1,0 +1,12 @@
+Source: ros-jade-ps4eye
+Section: misc
+Priority: extra
+Maintainer: Ron Tajima <ryosuke.tajima@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: http://wiki.ros.org/ps4eye
+Standards-Version: 3.9.2
+
+Package: ros-jade-ps4eye
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-gscam, ros-jade-image-proc, ros-jade-stereo-image-proc, ros-jade-tf
+Description: The ps4eye package
