@@ -1,3 +1,26 @@
+## ps4eye (indigo) - 0.0.4-1
+
+The packages in the `ps4eye` repository were released into the `indigo` distro by running `/usr/bin/bloom-release ps4eye --rosdistro indigo --track indigo` on `Wed, 11 Jul 2018 05:24:35 -0000`
+
+The `ps4eye` package was released.
+
+Version of package(s) in repository `ps4eye`:
+
+- upstream repository: https://github.com/longjie/ps4eye.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.4-0`
+- new version: `0.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## ps4eye (lunar) - 0.0.4-0
 
 The packages in the `ps4eye` repository were released into the `lunar` distro by running `/usr/bin/bloom-release ps4eye --track lunar --ros-distro lunar` on `Thu, 04 May 2017 03:57:47 -0000`
